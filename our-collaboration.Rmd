@@ -12,3 +12,12 @@ knitr::opts_chunk$set(echo = TRUE)
 Hi Andrea!! :) I really like your earrings.
 
 Thanks so much, Kiera! I like your sweater, it's very autumnal :)
+
+```{r task1}
+plot(cars)
+```
+
+```{r task2}
+
+```
+
