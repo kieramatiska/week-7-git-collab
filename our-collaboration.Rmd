@@ -7,6 +7,7 @@ output: html_document
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
+library(palmerpenguins)
 ```
 
 Hi Andrea!! :) I really like your earrings.
@@ -18,6 +19,6 @@ plot(cars)
 ```
 
 ```{r task2}
-
+plot(penguins)
 ```
 
