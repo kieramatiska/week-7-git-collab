@@ -16,6 +16,7 @@ Thanks so much, Kiera! I like your sweater, it's very autumnal :)
 
 ```{r task1}
 plot(cars)
+
 ```
 
 ```{r task2}
